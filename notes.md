@@ -11,3 +11,4 @@
 ## Android NDK
 * [Official documentation](https://developer.android.com/ndk/index.html)
 * [Create Hello-JNI with Android Studio](https://codelabs.developers.google.com/codelabs/android-studio-jni/index.html#0)
+* [The new NDK support in Android Studio](http://ph0b.com/new-android-studio-ndk-support/)
